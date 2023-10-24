@@ -1,6 +1,6 @@
 # H1
 ## H2
-**This is bold text in H2**
+**This is bold text in H2**\\
 This is not a  bold text in H2
 
 ### H3
